@@ -18,4 +18,4 @@ Note: if you are required to input the KDE wallet password, you can search the K
 **<4>. then you can get access to the shared folder from your computer by typing:*sam://sec14-dynip-163.gfz-potsdam.de*(see the detials in 2nd image) in the Dolphin window:**  
 ![img4](./img/4.png)  
 
-#### Now you see you have made it, you can get the files in your Mac.
+#### Now you see you have made it, you can get the files in your Mac.  
